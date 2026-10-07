@@ -1,1 +1,3 @@
 # TrustGraph
+Hackathon project
+
